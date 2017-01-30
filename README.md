@@ -1,3 +1,3 @@
-# Header 1
-Alex's Sample Website
-## Header 2 
+# Alex's Sample Website
+## Header 2
+
